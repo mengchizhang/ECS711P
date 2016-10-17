@@ -1,4 +1,4 @@
-# C++ Academic Programming Project
+# C++ Programming Project
 
 An interactive text-based fighting game that allows you to make different decisions during the combat. 
 
