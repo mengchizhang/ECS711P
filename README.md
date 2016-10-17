@@ -1,3 +1,5 @@
+This is a C++ academic programming project.
+
 Make sure you have C++14 installed.
 
 This is an interactive text-based fighting game that allows you to make different decisions during the combat. 
@@ -5,4 +7,5 @@ This is an interactive text-based fighting game that allows you to make differen
 Hope you enjoy.
 
 17 Dec 2015
+
 Mengchi Zhang
